@@ -1,0 +1,9 @@
+# See https://github.com/github/linguist
+# This file is used to override language statistics
+*.html linguist-vendored
+src/**/*.ts linguist-detectable
+*.svg text
+*.jpeg binary
+*.map linguist-generated
+
+# eof a6fa0e8c
